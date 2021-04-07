@@ -2,11 +2,11 @@
 # -*- coding: UTF-8 -*-
 
 ##################################
-# Filename:			dull_boy.py  #
-# Author:			Chris Snyder #
-# Created:			18-JUN-2019  #
-# Last Modified:	25-JUN-2019  #
-# Python Version:	2.7.5        #
+# Filename:         dull_boy.py  #
+# Author:           Chris Snyder #
+# Created:			       18-JUN-2019  #
+# Last Modified:	   25-JUN-2019  #
+# Python Version:	  2.7.5        #
 ##################################
 
 import os
